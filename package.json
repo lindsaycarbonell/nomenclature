@@ -1,0 +1,19 @@
+{
+  "name": "nomenclature",
+  "version": "1.0.0",
+  "description": "A data application for finding your name in the U.S.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindsaycarbonell/nomenclature.git"
+  },
+  "author": "Lindsay Carbonell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindsaycarbonell/nomenclature/issues"
+  },
+  "homepage": "https://github.com/lindsaycarbonell/nomenclature#readme"
+}
